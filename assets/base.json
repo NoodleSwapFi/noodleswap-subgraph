@@ -1,0 +1,38 @@
+{
+  "stableAssets": [
+    {
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "symbol": "USDC"
+    },
+    {
+      "address": "",
+      "symbol": "BUSD"
+    },
+    {
+      "address": "",
+      "symbol": "USDT"
+    },
+    {
+      "address": "",
+      "symbol": "TUSD"
+    },
+    {
+      "address": "",
+      "symbol": "FRAX"
+    }
+  ],
+  "pricingAssets": [
+    {
+      "address": "",
+      "symbol": "ETH"
+    },
+    {
+      "address": "",
+      "symbol": "WBNB"
+    },
+    {
+      "address": "",
+      "symbol": "BTCB"
+    }
+  ]
+}

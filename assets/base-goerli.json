@@ -1,0 +1,18 @@
+{
+  "stableAssets": [
+    {
+      "address": "0xf0d799E4600FF12ce3c4cdd67F8F460e7dF1eFea",
+      "symbol": "USDC"
+    }
+  ],
+  "pricingAssets": [
+    {
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "ETH"
+    },
+    {
+      "address": "0x243CAf595F57005e6A067645FeE1e5c1Cdbc60a2",
+      "symbol": "BTCB"
+    }
+  ]
+}

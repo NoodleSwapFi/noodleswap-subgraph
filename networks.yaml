@@ -1,0 +1,59 @@
+base-goerli:
+  network: base-testnet
+  Vault:
+    address: "0x1ab40126513036458e00Cc827FFd9e7D0436219d"
+    startBlock: 7976394
+  WeightedPoolV2Factory:
+    address: "0xc4B851Bd939c784c51dE74C9D7e872dbA255ecA3"
+    startBlock: 7901668
+  # StablePhantomPoolFactory:
+  #   address: ""
+  #   startBlock: 8383958
+  # StablePoolFactory:
+  #   address: ""
+  #   startBlock: 25141602
+  # MetaStablePoolFactory:
+  #   address: "0xA55F73E2281c60206ba43A3590dB07B8955832Be"
+  #   startBlock: 6993057
+  # LiquidityBootstrappingPoolFactory:
+  #   address: "0xb48Cc42C45d262534e46d5965a9Ac496F1B7a830"
+  #   startBlock: 6993037
+
+bnb:
+  network: bsc
+  Vault:
+    address: "0x719488F4E859953967eFE963c6Bed059BaAab60c"
+    startBlock: 25100959
+  WeightedPoolV2Factory:
+    address: "0xDE8993Bf9D6Eb1e0d752fe56ccB85Ef76538ABb6"
+    startBlock: 25101248
+  WeightedPoolV2FeeFactory:
+    address: "0xb9C7a581F0792d667beb684Bab1AF4FFFa14DA98"
+    startBlock: 25439817
+  StablePhantomPoolFactory:
+    address: "0x072a48eEADd2eb0E44A0A1Fd237A87F3CBF81bDa"
+    startBlock: 25140708
+  StablePoolFactory:
+    address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
+    startBlock: 25141602
+  MetaStablePoolFactory:
+    address: "0x1Af7cB48ACa54a3d94929204e7961B356FCA8636"
+    startBlock: 25659516
+  ComposableStablePoolV3Factory:
+    address: "0xfD50F5eAd870bdCFa69940c41a5C10f015b419e7"
+    startBlock: 25777066
+
+arbitrum:
+  network: arbitrum-one
+  Vault:
+    address: "0xe4E96Cf369D4d604Bedc4d7962F94D53E4B5e3C6"
+    startBlock: 71855303
+  WeightedPoolV2Factory:
+    address: "0xd71114b3AD1Ec657B4194E0B3b7C9fC71C7bdbEF"
+    startBlock: 71876278
+  ComposableStablePoolV3Factory:
+    address: "0x626355410729525eec3fd5628D840d683F24456d"
+    startBlock: 71879235
+  StablePoolFactory:
+    address: "0x9e2850729A4d44B1D862bEDF7CE458d71F10aC37"
+    startBlock: 77187076
