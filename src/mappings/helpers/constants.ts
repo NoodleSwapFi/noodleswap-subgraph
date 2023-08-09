@@ -44,7 +44,7 @@ let vaultAddressByNetwork: AddressByNetwork = {
 function forNetwork(addressByNetwork: AddressByNetwork, network: string): Address {
   if (network == 'base') {
     return Address.fromString(addressByNetwork.base);
-  } else if (network == 'base-goerli') {
+  } else if (network == 'base-testnet') {
     return Address.fromString(addressByNetwork.baseGoerli);
   } else {
     return Address.fromString(addressByNetwork.dev);
